@@ -1,4 +1,4 @@
-#' only a placeholder function for won
+#' only a placeholder function for now
 get_data <- function() {
   return(0)
 }
